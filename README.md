@@ -1,6 +1,6 @@
 ## GIS_Broadband_Network_Distribution_in_Ireland
 
-  Maps are build using QGIS. For data manipulation I have used the PostgreSQL along with PostGIS.
+  Maps are built using QGIS. For data manipulation I have used the PostgreSQL along with PostGIS.
 
 ### REFERENCES
 
